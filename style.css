@@ -347,7 +347,8 @@ input[type="range"] {
   .filter .container {
     flex-direction: row;
   }
-  .main-heading h3 {
+  .main-heading h3,
+  .xs-text-center {
     text-align: center;
   }
   .menu a {
